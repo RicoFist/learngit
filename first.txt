@@ -1,3 +1,4 @@
 My second git text;
 Add a new line;
 Add second line;
+Git tracks changes;
